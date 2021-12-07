@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Create Next App with Bulma.io</title>
+        <title>&lt;/designpig&gt;</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
